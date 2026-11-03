@@ -1,0 +1,2 @@
+model,threshold_selection,threshold,test_rows,test_cartel_rows,test_non_cartel_rows,roc_auc,average_precision,precision,recall,specificity,f1,tn,fp,fn,tp
+Rank Reliability-aware Fusion,Training 2004-2015,0.01,6203,225,5978,0.7525787145459276,0.08739047974738695,0.03631375080697224,1.0,0.00117096018735363,0.07008254166017754,7,5971,0,225

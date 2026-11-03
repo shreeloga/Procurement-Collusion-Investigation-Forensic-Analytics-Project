@@ -1,0 +1,18 @@
+{
+  "scoring_method": "Soft-OR Evidence Fusion",
+  "alpha": 0.5,
+  "formula": "0.5 * max(rank_i * rel_i) + 0.5 * sum(rank_i * rel_i) / sum(rel_i)",
+  "total_records": 3861477,
+  "usable_scores": 3854645,
+  "unavailable_scores": 6832,
+  "threshold_q70": 0.5444158097674459,
+  "threshold_q90": 0.663700436168184,
+  "risk_level_counts": {
+    "Low": 2698251,
+    "Medium": 770487,
+    "High": 385907,
+    "Unavailable": 6832
+  },
+  "baseline_preserved_file": "C:\\Users\\Lenovo\\Documents\\Forensics Analytics\\Project\\Model Training\\dashboard_data\\full_tender_risk_scores.parquet",
+  "soft_or_file": "C:\\Users\\Lenovo\\Documents\\Forensics Analytics\\Project\\Model Training\\dashboard_data\\full_tender_risk_scores_soft_or.parquet"
+}

@@ -1,0 +1,16 @@
+formulation,alpha,val_auc,val_ap,test_auc,test_ap
+Formulation 1: Implemented Soft-OR [alpha * max(r*w) + (1-alpha) * w_mean],0.0,0.5716000324938872,0.585549523362419,0.7559295193487231,0.09367299431048828
+Formulation 1: Implemented Soft-OR [alpha * max(r*w) + (1-alpha) * w_mean],0.25,0.5592271374394279,0.5841285648583139,0.760591056094569,0.14287427089434068
+Formulation 1: Implemented Soft-OR [alpha * max(r*w) + (1-alpha) * w_mean],0.5,0.5404307052351746,0.5886869317510542,0.7580179175495335,0.2061728143255892
+Formulation 1: Implemented Soft-OR [alpha * max(r*w) + (1-alpha) * w_mean],0.75,0.513981466495433,0.5756597147982471,0.7424802051968329,0.22186425569737794
+Formulation 1: Implemented Soft-OR [alpha * max(r*w) + (1-alpha) * w_mean],1.0,0.4898078333832524,0.5608496704284209,0.7201170960187353,0.33749226237137026
+Formulation 2: Normalized Max Rank [alpha * max_active(r) + (1-alpha) * w_mean],0.0,0.5716000324938872,0.585549523362419,0.7559295193487231,0.09367299431048828
+Formulation 2: Normalized Max Rank [alpha * max_active(r) + (1-alpha) * w_mean],0.25,0.5681391854576212,0.5824468447943193,0.7525333630720048,0.09934875640712917
+Formulation 2: Normalized Max Rank [alpha * max_active(r) + (1-alpha) * w_mean],0.5,0.5623014477763082,0.5774150951656095,0.7517965874874539,0.1055101740503638
+Formulation 2: Normalized Max Rank [alpha * max_active(r) + (1-alpha) * w_mean],0.75,0.5568136601656155,0.5744066893061361,0.7421218542061634,0.10000697332777925
+Formulation 2: Normalized Max Rank [alpha * max_active(r) + (1-alpha) * w_mean],1.0,0.5528698489592344,0.5810155538407346,0.7216835805360395,0.08729807671860197
+Formulation 3: Calibrated Max [alpha * (max(r*w)/max_rel) + (1-alpha) * w_mean],0.0,0.5716000324938872,0.585549523362419,0.7559295193487231,0.09367299431048828
+Formulation 3: Calibrated Max [alpha * (max(r*w)/max_rel) + (1-alpha) * w_mean],0.25,0.5691512088160132,0.5835438918636133,0.7586580424519535,0.10287859885114956
+Formulation 3: Calibrated Max [alpha * (max(r*w)/max_rel) + (1-alpha) * w_mean],0.5,0.5650900930230539,0.5792635750786383,0.7581710717073715,0.11231328611660742
+Formulation 3: Calibrated Max [alpha * (max(r*w)/max_rel) + (1-alpha) * w_mean],0.75,0.5617268103301623,0.5761259832310177,0.7542507713467901,0.11810287865600949
+Formulation 3: Calibrated Max [alpha * (max(r*w)/max_rel) + (1-alpha) * w_mean],1.0,0.5571164816974873,0.5756383341363015,0.7487349912642652,0.16150756883294742

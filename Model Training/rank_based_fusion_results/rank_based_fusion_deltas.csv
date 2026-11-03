@@ -1,0 +1,4 @@
+comparison,delta_auc,delta_ap
+Rank Equal vs Raw Equal,0.005927660681759095,0.0071734674980005325
+Rank Reliability vs Raw Reliability,0.004889781049031594,0.00958584998382972
+Rank Reliability vs Rank Equal,0.014948514925095746,0.009737686015710609

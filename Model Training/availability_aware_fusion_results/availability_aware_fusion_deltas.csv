@@ -1,0 +1,4 @@
+comparison,delta_auc,delta_ap
+Availability-aware vs Equal-weight,0.0,0.0
+Availability-aware vs Reliability-aware,-0.015986394557823247,-0.007325303529881422
+Reliability-aware vs Equal-weight,0.015986394557823247,0.007325303529881422

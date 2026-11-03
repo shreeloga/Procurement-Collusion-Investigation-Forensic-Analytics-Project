@@ -1,0 +1,11 @@
+# Core Data Processing and Numerical Operations
+numpy>=1.24.0
+pandas>=2.0.0
+pyarrow>=12.0.0
+
+# Machine Learning and Statistical Evaluation
+scikit-learn>=1.2.0
+
+# Interactive Dashboard and Visualizations
+streamlit>=1.30.0
+plotly>=5.15.0

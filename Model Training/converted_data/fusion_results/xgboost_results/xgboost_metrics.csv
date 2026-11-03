@@ -1,0 +1,2 @@
+model,dataset,training_rows,test_rows,positive_test_rows,negative_test_rows,roc_auc,average_precision,precision,recall,specificity,f1,threshold,n_features
+XGBoost,df_full.parquet,15045,3762,1609,2153,0.9901777536194023,0.9869497056568497,0.9252392344497608,0.961466749533872,0.9419414770088249,0.9430051813471503,0.5,1055

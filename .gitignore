@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+dashboard_data/full_tender_risk_scores.parquet
+dashboard_data/full_tender_risk_scores_soft_or.parquet
+Model Training/dashboard_data/full_tender_risk_scores.parquet
+Model Training/df_full.csv

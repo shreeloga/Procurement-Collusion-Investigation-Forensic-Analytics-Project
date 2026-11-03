@@ -1,0 +1,2 @@
+model,test_start_year,train_rows,test_rows,train_min_year,train_max_year,test_min_year,test_max_year,train_cartel,train_non_cartel,test_cartel,test_non_cartel,n_features,roc_auc,average_precision,precision,recall,specificity,f1,tn,fp,fn,tp,scale_pos_weight
+XGBoost_Reliability_Weighted_Evidence,2016,12599,6208,2004.0,2015.0,2016.0,2022.0,7819,4780,226,5982,4,0.5019753212439678,0.03471746294095812,0.03484411841760545,0.588495575221239,0.38415245737211634,0.0657927281721494,2298,3684,93,133,0.6113313722982479

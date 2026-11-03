@@ -1,0 +1,2 @@
+test_start_year,training_start_year,training_end_year,test_end_year,training_rows,test_rows,test_cartel_rows,test_non_cartel_rows,final_model,final_auc,final_average_precision,top_5_percent_rows_selected,top_5_percent_cartel_selected,top_5_percent_precision,top_5_percent_recall,top_5_percent_lift
+2016,2004.0,2015.0,2022.0,12599,6208,226,5982,Rank Reliability-aware Fusion,0.7559295193487231,0.09367299431048828,311,42,0.13504823151125403,0.18666666666666668,3.7333333333333334

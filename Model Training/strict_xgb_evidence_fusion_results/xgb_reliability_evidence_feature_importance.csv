@@ -1,0 +1,13 @@
+feature,importance
+m4_reliability_v2,0.17046414
+m1_reliability_v2,0.16277035
+m4_evidence_x_reliability,0.1494712
+m4_evidence_score_v3,0.14197609
+m3_evidence_score_v3,0.09809922
+m2_evidence_score_v4,0.05941918
+m3_evidence_x_reliability,0.050918307
+m2_reliability_v2,0.048742734
+m3_reliability_v2,0.04199141
+m2_evidence_x_reliability,0.028853705
+m1_evidence_score_v3,0.025434842
+m1_evidence_x_reliability,0.021858862
